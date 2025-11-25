@@ -30,6 +30,7 @@ This project automates the extraction, explanation, and interactive Q&A of medic
 2. Install dependencies:
 
 `pip install -r requirements.txt`
+
 3. Add your Google API key to `.env`.
 4. Run the main workflow:
 

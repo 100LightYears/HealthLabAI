@@ -1,0 +1,39 @@
+{
+  "Hemoglobin": { "low": 12.0, "high": 16.0, "unit": "g/dL" },
+  "Hematocrit": { "low": 36.0, "high": 46.0, "unit": "%" },
+  "RBC": { "low": 4.0, "high": 5.9, "unit": "million/µL" },
+  "MCV": { "low": 80.0, "high": 100.0, "unit": "fL" },
+  "MCH": { "low": 26.0, "high": 34.0, "unit": "pg" },
+  "MCHC": { "low": 31.0, "high": 37.0, "unit": "g/dL" },
+  "RDW": { "low": 11.5, "high": 15.0, "unit": "%" },
+  "WBC": { "low": 4.5, "high": 11.0, "unit": "10^3/µL" },
+  "Platelets": { "low": 150, "high": 400, "unit": "10^3/µL" },
+
+  "Glucose": { "low": 70, "high": 100, "unit": "mg/dL" },
+  "BUN": { "low": 6, "high": 20, "unit": "mg/dL" },
+  "Creatinine": { "low": 0.6, "high": 1.3, "unit": "mg/dL" },
+  "Sodium": { "low": 135, "high": 145, "unit": "mmol/L" },
+  "Potassium": { "low": 3.5, "high": 5.0, "unit": "mmol/L" },
+  "Chloride": { "low": 95, "high": 105, "unit": "mmol/L" },
+  "CO2": { "low": 23, "high": 29, "unit": "mmol/L" },
+  "Calcium": { "low": 8.5, "high": 10.2, "unit": "mg/dL" },
+
+  "ALT": { "low": 4, "high": 36, "unit": "U/L" },
+  "AST": { "low": 8, "high": 33, "unit": "U/L" },
+  "Alkaline_Phosphatase": { "low": 20, "high": 130, "unit": "U/L" },
+  "Albumin": { "low": 3.4, "high": 5.4, "unit": "g/dL" },
+  "Total_Protein": { "low": 6.0, "high": 8.3, "unit": "g/dL" },
+  "Bilirubin_Total": { "low": 0.1, "high": 1.2, "unit": "mg/dL" },
+
+  "Total_Cholesterol": { "low": 0, "high": 200, "unit": "mg/dL" },
+  "LDL": { "low": 0, "high": 100, "unit": "mg/dL" },
+  "HDL": { "low": 40, "high": 80, "unit": "mg/dL" },
+  "Triglycerides": { "low": 0, "high": 150, "unit": "mg/dL" },
+
+  "TSH": { "low": 0.5, "high": 5.0, "unit": "mIU/L" },
+  "Free_T4": { "low": 0.9, "high": 1.8, "unit": "ng/dL" },
+
+  "Ferritin": { "low": 12, "high": 300, "unit": "ng/mL" },
+  "Iron": { "low": 50, "high": 150, "unit": "µg/dL" },
+  "Transferrin": { "low": 200, "high": 365, "unit": "mg/dL" }
+}
